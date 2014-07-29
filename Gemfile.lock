@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.4.0)
+    rake (10.1.0)
+    sequel (4.12.0)
+    sqlite3 (1.3.9)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  minitest
+  rake
+  sequel
+  sqlite3
